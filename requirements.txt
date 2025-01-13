@@ -1,0 +1,10 @@
+pyspark<4.0.0,>=3.4.0
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+findspark>=2.0.0
+pyarrow>=12.0.0
+# Uncomment the following line if using Delta Lake
+# delta-spark>=2.4.0
+jupyterlab>=4.0.0
+ipykernel>=6.0.0
